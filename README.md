@@ -7,7 +7,7 @@ The OrtizBot kit is meant to be a cost-effective alternative as opposed to the V
 
 ## Roadmap
 
-Currently our plan is to have certain schools piloting the project, the schools will be decided on multiple factors, which have been listed in [pilotschools.md](https://github.com/OrtizBot/OrtizV1/blob/main/pilotschools.md)
+Currently our plan is to have certain schools piloting the project, the schools will be decided on multiple factors, which have been listed in [pilotschools.md](pilotschools.md)
  - [x] Start the project, and setup the Github organization.
  - [x] Obtain permission to start the project.
  - [ ] Talk to numberous people to get funding for the project. (in progress)
