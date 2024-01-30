@@ -1,7 +1,7 @@
 
 # OrtizBotV1
 
-Version 1 of the OrtizBot.
+Version 1 of the OrtizBot. OrtizBot is build upon the Open Robotic Platform [ORP](https://openroboticplatform.com/)
 ## Mission
 The OrtizBot kit is meant to be a cost-effective alternative as opposed to the VEX or REV systems. To introduce people to robotics in less wealthy places.
 
