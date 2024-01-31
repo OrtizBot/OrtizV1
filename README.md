@@ -25,10 +25,5 @@ The OrtizBot kit is designed to be a cost-effective alternative to the VEX or RE
 - [ ] Collect feedback from general schools.
 - [ ] Release the project online based on the received feedback.
 
-## Installation
-
-Include instructions on how to install and use the OrtizBotV1.
-
-## Build Status
-
-Add a build status badge here if applicable.
+## Instruction Manuals 
+Will be posted at a later date, when the part list is finalized.
