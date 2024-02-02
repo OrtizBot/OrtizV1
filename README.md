@@ -14,7 +14,7 @@ The OrtizBot kit is designed to be a cost-effective alternative to the VEX or RE
 - [ ] Set up the IDE and establish communication with the robot brain (in progress).
 - [X] Design the robot.
 - [ ] Create instruction manuals (in progress).
-- [ ] Develop the project website.
+- [X] Develop the project website.
 - [ ] Secure sponsorships, potentially including laptops for project use.
 - [ ] Acquire cases for the robot.
 - [ ] Reach out to selected schools to pilot the project.
